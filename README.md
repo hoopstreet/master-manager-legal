@@ -8,7 +8,7 @@ Master Manager is an internal workflow orchestration tool built with **n8n** and
 ### Tech Stack
 * **Automation:** n8n (Node-based workflow engine)
 * **Database:** Supabase (PostgreSQL for secure token and memory storage)
-* **Data Source:** Supabase (Product inventory and scheduling)
+* **Data Source:** Dropbox (Product inventory and scheduling)
 * **API:** TikTok Content Posting API
 
 ### Legal Links
